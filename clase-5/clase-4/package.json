@@ -1,0 +1,20 @@
+{
+  "name": "clase-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clase-3": "file:",
+    "cors": "^2.8.5",
+    "express": "4.21.0",
+    "mongodb": "6.9.0",
+    "zod": "3.23.8"
+  }
+}
